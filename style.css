@@ -4,7 +4,7 @@ html {
 
 body {
     margin: 0;
-    background: #2f7057;
+    background: #ffffff;
     font-family: "Times New Roman", Georgia, serif;
 }
 
@@ -61,10 +61,5 @@ a:hover {
         margin: 2rem 1rem;
         padding: 2rem 1.25rem;
     }
-}
-
-
-
-
 
 
