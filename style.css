@@ -4,14 +4,10 @@ html {
 
 body {
     margin: 0;
-    background: linear-gradient(
-        to right,
-        #0f4d92 calc(50% - 310px),
-        #e8e8e8 calc(50% - 310px),
-        #e8e8e8 calc(50% + 310px),
-        #0f4d92 calc(50% + 310px)
-    );
+    background: #e8e8e8;
     font-family: "Times New Roman", Georgia, serif;
+    border-left: 12px solid #0f4d92;
+    border-right: 12px solid #0f4d92;
     min-height: 100vh;
 }
 
