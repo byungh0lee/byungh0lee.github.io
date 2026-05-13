@@ -4,8 +4,11 @@ html {
 
 body {
     margin: 0;
-    background: #0f4d92;
+    background: #e8e8e8;
     font-family: "Times New Roman", Georgia, serif;
+    border-left: 12px solid #0f4d92;
+    border-right: 12px solid #0f4d92;
+    min-height: 100vh;
 }
 
 /* Center white page */
@@ -62,4 +65,3 @@ a:hover {
         padding: 2rem 1.25rem;
     }
 }
-
