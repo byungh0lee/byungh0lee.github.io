@@ -4,7 +4,7 @@ html {
 
 body {
     margin: 0;
-    background: #ffffff;
+    background: #0f4d92;
     font-family: "Times New Roman", Georgia, serif;
 }
 
@@ -14,7 +14,7 @@ body {
     max-width: 620px;
     margin: 4rem auto;
     padding: 3rem 2.5rem;
-    background: #ffffff;
+    background: #e8e8e8;
     color: #111;
     font-size: 17px;
     line-height: 1.75;
