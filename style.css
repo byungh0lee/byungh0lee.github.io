@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;700&display=swap');
+
 html {
     scroll-behavior: smooth;
 }
@@ -5,7 +7,7 @@ html {
 body {
     margin: 0;
     background: #ffffff;
-    font-family: "Times New Roman", Georgia, serif;
+    font-family: "EB Garamond", Georgia, serif;
     border-left: 12px solid #0f4d92;
     border-right: 12px solid #0f4d92;
     min-height: 100vh;
