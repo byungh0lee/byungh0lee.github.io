@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;700&display=swap');
 
 html {
     scroll-behavior: smooth;
@@ -7,7 +7,7 @@ html {
 body {
     margin: 0;
     background: #ffffff;
-    font-family: "EB Garamond", Georgia, serif;
+    font-family: "Crimson Text", Georgia, serif;
     border-left: 12px solid #0f4d92;
     border-right: 12px solid #0f4d92;
     min-height: 100vh;
@@ -21,7 +21,7 @@ body {
     padding: 3rem 2.5rem;
     background: #ffffff;
     color: #111;
-    font-size: 18px;
+    font-size: 19px;
     line-height: 1.75;
 }
 
@@ -36,6 +36,10 @@ h1, h2, h3 {
 h1 { font-size: 1.2em; }
 h2 { font-size: 1.1em; }
 h3 { font-size: 1.05em; }
+
+.email {
+    text-align: center;
+}
 
 .paper {
     padding: 1.3rem 0;
@@ -68,5 +72,4 @@ a:hover {
         padding: 2rem 1.25rem;
     }
 }
-
 
