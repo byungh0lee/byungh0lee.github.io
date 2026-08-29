@@ -4,7 +4,7 @@ html {
 
 body {
     margin: 0;
-    background: #e8e8e8;
+    background: #ffffff;
     font-family: "Times New Roman", Georgia, serif;
     border-left: 12px solid #0f4d92;
     border-right: 12px solid #0f4d92;
@@ -17,9 +17,9 @@ body {
     max-width: 620px;
     margin: 4rem auto;
     padding: 3rem 2.5rem;
-    background: #e8e8e8;
+    background: #ffffff;
     color: #111;
-    font-size: 17px;
+    font-size: 18px;
     line-height: 1.75;
 }
 
